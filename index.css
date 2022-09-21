@@ -1,0 +1,51 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+}
+
+main img {
+  width: 80%;
+  margin: 20px auto;
+  display: block;
+  max-width: 400px;
+}
+
+.infos {
+  background-color: black;
+  width: 80%;
+  max-width: 400px;
+  margin: 20px auto;
+  display: block;
+  padding: 10px 0px;
+  border-radius: 2px;
+}
+
+.infobox {
+  margin: 20px 0px;
+  text-decoration: underline;
+}
+
+h2 {
+  color: green;
+  font-size: 17px;
+  font-family: arial;
+}
+
+.infos p {
+  margin: 7px 0px;
+  width: 100%;
+  border-bottom: .7px solid black;
+  padding: 0px 5px;
+  color: limegreen;
+}
+
+.infos p span, .infos p span a{
+  color: lightgreen;
+  font-weight: bolder;
+  font-weight: bolder;
+}
